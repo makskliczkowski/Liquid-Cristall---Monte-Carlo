@@ -1,0 +1,23 @@
+
+=== Start: [2018/03/18 14:08:32] === 
+Analysis started...
+Result file: C:\Users\maxgr\Desktop\MonteCarlo\2\Dyfuzja\Dyfuzja\My Inspector Results - Dyfuzja\r000mi1\r000mi1.inspxe 
+Analysis started for C:\Users\maxgr\Desktop\MonteCarlo\2\Dyfuzja\Dyfuzja\Debug\Dyfuzja.exe (pid = 11956) 
+Loaded module: C:\Users\maxgr\Desktop\MonteCarlo\2\Dyfuzja\Dyfuzja\Debug\Dyfuzja.exe, address range [0x810000-0x827fff] 
+Loaded module: C:\Windows\SysWOW64\KernelBase.dll, address range [0x73d20000-0x73ef6fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\kernel32.dll, address range [0x76bb0000-0x76c7ffff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\ntdll.dll, address range [0x76f30000-0x770bcfff], minimal analysis 
+Loaded module: D:\Program Files (x86)\compilers_and_libraries_2018.1.156\windows\redist\ia32_win\compiler\libifcoremdd.dll, address range [0xf500000-0xf643fff] 
+Loaded module: C:\Windows\SysWOW64\imagehlp.dll, address range [0x760e0000-0x760f8fff] 
+Loaded module: C:\Windows\SysWOW64\ucrtbase.dll, address range [0x76840000-0x76956fff] 
+Loaded module: C:\Windows\SysWOW64\vcruntime140d.dll, address range [0xf370000-0xf389fff] 
+Loaded module: C:\Windows\SysWOW64\ucrtbased.dll, address range [0x8bd0000-0x8d41fff] 
+Unloaded module: C:\Windows\SysWOW64\ucrtbased.dll 
+Loaded module: D:\Program Files (x86)\compilers_and_libraries_2018.1.156\windows\redist\ia32_win\compiler\libmmd.dll, address range [0x9060000-0x959cfff] 
+Unloaded module: D:\Program Files (x86)\compilers_and_libraries_2018.1.156\windows\redist\ia32_win\compiler\libmmd.dll 
+Loaded module: C:\Windows\SysWOW64\ucrtbased.dll, address range [0x9060000-0x91d1fff] 
+Loaded module: D:\Program Files (x86)\compilers_and_libraries_2018.1.156\windows\redist\ia32_win\compiler\libmmd.dll, address range [0xf730000-0xfc6cfff] 
+Application exit code: 1 
+Result file: C:\Users\maxgr\Desktop\MonteCarlo\2\Dyfuzja\Dyfuzja\My Inspector Results - Dyfuzja\r000mi1\r000mi1.inspxe 
+Analysis canceled by user
+=== End: [2018/03/18 14:10:01] === 

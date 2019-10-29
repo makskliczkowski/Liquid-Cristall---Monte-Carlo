@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Liquid", "Monte\Liquid.vfproj", "{265D16A2-C890-4C8F-9B0A-36479A74B37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265D16A2-C890-4C8F-9B0A-36479A74B37D}.Debug|x86.ActiveCfg = Debug|Win32
+		{265D16A2-C890-4C8F-9B0A-36479A74B37D}.Debug|x86.Build.0 = Debug|Win32
+		{265D16A2-C890-4C8F-9B0A-36479A74B37D}.Release|x86.ActiveCfg = Release|Win32
+		{265D16A2-C890-4C8F-9B0A-36479A74B37D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922488ED-9BFF-4B00-843F-D2B4FBCF44F0}
+	EndGlobalSection
+EndGlobal
